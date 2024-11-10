@@ -11,7 +11,6 @@ Explore real-time intelligence in the Microsoft Fabric architecture to gain insi
 
 ### **1. Data Pipeline**
 
-#### **a. Setting Up**
 1. **Create a new pipeline**:  
    - Set up a new data pipeline in your environment.
 2. **Create a new Dataflow Activity**:  
@@ -62,7 +61,6 @@ Explore real-time intelligence in the Microsoft Fabric architecture to gain insi
 - Retrieve flight data from the **flights** table using KQL queries.
 - Load the retrieved data into a **Pandas DataFrame** for further analysis.
 
----
 
 ### **Exploratory Data Analysis (EDA) & Data Processing**
 
@@ -79,7 +77,6 @@ Explore real-time intelligence in the Microsoft Fabric architecture to gain insi
   - **Boxen Plot**: Visualize the distribution of flight prices across different arrival airports. This plot highlights the spread, outliers, and patterns in the price distribution for each airport, providing insights into how prices vary depending on the arrival airport.
 
 
----
 
 ### **Feature Engineering & Data Processing**
 
@@ -92,7 +89,7 @@ Explore real-time intelligence in the Microsoft Fabric architecture to gain insi
 #### **c. Feature Encoding**
 - Make use of the One-Hot Encoding method to encode important categorical features like airlines and airports, which allows training models on the encoded data.
 
----
+
 
 ### **Feature Selection & Model Training**
 
