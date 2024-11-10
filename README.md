@@ -64,7 +64,7 @@ Explore real-time intelligence in the Microsoft Fabric architecture to gain insi
 
 ---
 
-### **4. Exploratory Data Analysis (EDA) & Data Processing**
+### **Exploratory Data Analysis (EDA) & Data Processing**
 
 - **Initial Data Exploration**:  
   Start by inspecting the dataset, displaying the first few rows and checking the data types. Look for any missing values or anomalies that need to be addressed.
@@ -81,7 +81,7 @@ Explore real-time intelligence in the Microsoft Fabric architecture to gain insi
 
 ---
 
-### **5. Feature Engineering & Data Processing**
+### **Feature Engineering & Data Processing**
 
 #### **a. Data Cleaning**
 - Handle missing values by dropping rows based on the context of the data.
@@ -94,7 +94,7 @@ Explore real-time intelligence in the Microsoft Fabric architecture to gain insi
 
 ---
 
-### **6. Feature Selection & Model Training**
+### **Feature Selection & Model Training**
 
 #### **a. Feature Selection**
 - Using a heatmap is an effective way to visualize the correlation between different features in a dataset and is an effective way to determine the features for selection.
@@ -110,7 +110,7 @@ Explore real-time intelligence in the Microsoft Fabric architecture to gain insi
 
 ---
 
-### **7. KQL Databases**
+### **4. KQL Databases**
 
 #### **a. Flights Table**
 - **flights**:  
@@ -126,7 +126,7 @@ Explore real-time intelligence in the Microsoft Fabric architecture to gain insi
 
 ---
 
-### **8. Real-Time Dashboard**
+### **5. Real-Time Dashboard**
 
 #### **a. Create Tiles**
 - Set up tiles on the dashboard to display real-time visualizations and insights.
